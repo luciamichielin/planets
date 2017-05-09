@@ -2,5 +2,7 @@
 th two mooun can be a problem 
 
 But mummy would appreciate the lack of humidity
+<<<<<<< HEAD
 Hi I am person 2 donït like person 1
-Hi my name is lucia
+Hi my name is lucia and other
+>>>>>>> aeea8d72aa7ae80dd4531d12fe787a125ee55add
